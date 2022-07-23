@@ -1,5 +1,7 @@
 function init(){
     console.log('init')
-    console.log('공선생님안녕하세요')
-    console.log('왜안되냐고')
+    console.log('공선생님 왜 지우라고 하시는거죠?')
 }
+
+
+
